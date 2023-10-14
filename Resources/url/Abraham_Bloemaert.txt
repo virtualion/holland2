@@ -1,2 +1,2 @@
-#root=https://virtualion.github.io/holland2/
+#root=https://virtualion.github.io/Resources/holland2/
 #prj=Abraham_Bloemaert
