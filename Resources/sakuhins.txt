@@ -12,6 +12,7 @@
 ./Images/Abraham Bloemaert/wrk_3_auth.png,
 ./Images/Abraham Bloemaert/wrk_4_auth.png,
 ./Images/Abraham Bloemaert/画像1.png,
+./Images/Abraham Bloemaert/画像2.png,
 ./Images/DefaultImages/hatena.png,
 ./Images/DefaultImages/hatena2.png,
 ./Images/DefaultImages/Splash.png,
